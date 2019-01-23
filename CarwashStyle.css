@@ -1,0 +1,507 @@
+a {
+	font-size: 30px;
+	color: darkred;
+	font-family: Cooper Black;
+	text-decoration: none;
+	padding:8px;
+
+}
+p {
+    
+    	font-size: 30px;
+	color: darkblue;
+	font-family: Cooper Black;
+	text-decoration: none;
+	padding:8px;
+
+}
+a:hover {
+
+	background-color: black;
+	color: yellow;
+}
+
+#banner {
+    
+    position:absolute;
+	left:0px;
+	top:50px;
+    
+    
+    
+}
+
+#tiff {
+    
+position:absolute;
+	left:670px;
+	top:5px; 
+    
+}
+
+#Links {
+    
+    position:absolute;
+	left:5px;
+	top:5px;
+}
+
+#Fair{
+
+    
+    position:absolute;
+	left:450px;
+	top:2px;
+}
+
+#Logo{
+    
+   position:absolute;
+	left:800px;
+	top:10px;
+}
+
+#Goal{
+    
+    position:absolute;
+	left:600px;
+	top:150px;
+}
+#Qoute1{
+    
+    position:absolute;
+	left:100px;
+	top:220px;
+}
+#Qoute2{
+    
+    position:absolute;
+	left:670px;
+	top:220px;
+}
+#Qoute3{
+    
+    position:absolute;
+	left:150px;
+	top:260px;
+}
+#Qoute4 {
+    
+    position:absolute;
+	left:570px;
+	top:260px;
+}
+
+#icon{
+    
+    position:absolute;
+	left:100px;
+	top:420px;
+}
+
+#Qoute5{
+    
+    position:absolute;
+	left:340px;
+	top:380px;
+}
+#Qoute6{
+    
+    position:absolute;
+	left:400px;
+	top:490px;
+}
+
+#Qoute7{
+    
+    position:absolute;
+	left:500px;
+	top:435px;
+}
+#pic1{
+    
+    position:absolute;
+	left:35px;
+	top:620px;
+}
+#pic2{
+    
+    position:absolute;
+	left:35px;
+	top:900px;
+}
+#pic3{
+    
+    position:absolute;
+	left:35px;
+	top:1180px;
+}
+#pic4{
+    
+    position:absolute;
+	left:35px;
+	top:1930px;
+}
+
+#text1 {
+    
+    position: absolute;
+    top: 650px;
+    left: 500px;
+    
+}
+
+#text2 {
+    
+    position: absolute;
+    top: 930px;
+    left: 500px;
+    
+}
+#text3 {
+    
+    position: absolute;
+    top: 1200px;
+    left: 500px;
+    
+}
+#Qoute8 {
+    
+    position: absolute;
+    top: 1420px;
+    left: 100px;
+    
+}
+#Qoute9 {
+    
+    position: absolute;
+    top: 1424px;
+    left: 680px;
+    
+}
+#text4{
+    
+    position: absolute;
+    top: 1530px;
+    left: 10px;
+    
+}
+#socials{
+    
+    position: absolute;
+    top: 2300px;
+    left: 0px;
+    background-color: black;
+    width: 1343px;
+    height: 300px;
+}
+
+
+h1{
+    font-size: 20px;
+	color: White;
+	font-family: Cooper Black;
+	text-decoration: none;
+	padding:8px;
+            
+    
+}
+#visit{
+    
+    position: absolute;
+    top: 2350px;
+    left: 10px;}
+ #contact{
+    
+    position: absolute;
+    top: 2300px;
+    left: 810px;}
+
+#Links1 {
+    
+    position: absolute;
+    top: 2355px;
+    left: 900px;
+}
+#qoute11 {
+    
+    position: absolute;
+    top: 2380px;
+   left:100px;
+}
+#qoute12 {
+    
+    position: absolute;
+    top: 2380px;
+   left: 600px;
+}
+h3{
+    font-size: 20px;
+	color: Yellow;
+	font-family: Cooper Black;
+	text-decoration: none;
+	padding:8px;
+        
+}
+
+#privacy {
+    position: absolute;
+    top: 2500px;
+    left:500px;
+}
+#sitemap {
+    position: absolute;
+    top: 2500px;
+    left:630px;
+}
+#copy {
+    position: absolute;
+    top: 2526px;
+    left:715px;
+}
+
+#right {
+    position: absolute;
+    top: 2500px;
+    left:725px;
+}
+
+#qoute13 {
+    
+    position: absolute;
+    top: 380px;
+    left: 50px;
+    
+}
+
+#qoute14 {
+    
+    position: absolute;
+    top: 480px;
+    left: 100px;
+}
+
+#text5 {
+    
+    position: absolute;
+    top: 550px;
+    left: 120px;
+}
+#text6 {
+    
+    position: absolute;
+    top: 700px;
+    left: 120px;
+}
+#ul {
+    
+    position: absolute;
+    top: 780px;
+    left: 120px;
+    font-family: Cooper Black;
+}
+#text7 {
+    
+    position: absolute;
+    top: 700px;
+    left: 720px;
+}
+#ull {
+    
+    position: absolute;
+    top: 780px;
+    left: 720px;
+    font-family: Cooper Black;
+}
+
+#qoute15 {
+    
+    position: absolute;
+    top: 950px;
+    left: 60px;
+}
+
+#text8 {
+      position: absolute;
+    top: 1020px;
+    left: 150px;
+    
+}
+#uli {
+    
+    position: absolute;
+    top: 1325px;
+    left: 150px;
+    font-family: Cooper Black;
+}
+#text9 {
+    
+    position: absolute;
+    top: 1250px;
+    left: 150px;
+}
+#ulil {
+    
+    position: absolute;
+    top: 1330px;
+    left:700px;
+    font-family: Cooper Black;
+}
+#text10 {
+    
+    position: absolute;
+    top: 1250px;
+    left: 700px;
+}
+#qoute16 {
+    
+    position: absolute;
+    top: 1500px;
+    left: 60px;
+}
+
+#text11 {
+    
+    position: absolute;
+    top: 1580px;
+    left: 150px;
+}
+
+#ulill {
+    
+    position: absolute;
+    top: 1850px;
+    left:150px;
+    font-family: Cooper Black;
+}
+#text12 {
+    
+    position: absolute;
+    top: 1790px;
+    left: 150px;
+}
+#ulll {
+    
+    position: absolute;
+    top: 1850px;
+    left:750px;
+    font-family: Cooper Black;
+}
+#text13 {
+    
+    position: absolute;
+    top: 1790px;
+    left: 750px;
+}
+
+#gallery1 {
+    
+    position: absolute;
+    top: 500px;
+    left: 10px;
+}
+#gallery2 {
+    
+    position: absolute;
+    top: 500px;
+    left: 455px;
+}
+#gallery3 {
+    
+    position: absolute;
+    top: 500px;
+    left: 900px;
+}
+#gallery4 {
+    
+    position: absolute;
+    top: 870px;
+    left: 10px;
+}
+#gallery5 {
+    
+    position: absolute;
+    top: 870px;
+    left: 455px;
+}
+
+#fairgo {
+    
+    position: absolute;
+    top: 30px;
+    left: 50px;
+}
+
+#broch{
+    position: absolute;
+    top: 600px;
+    left: 50px;
+}
+
+#gallery6 {
+    
+    position: absolute;
+    top: 870px;
+    left: 900px;
+}
+#gallery7 {
+    
+    position: absolute;
+    top: 1240px;
+    left: 10px;
+}
+#gallery8 {
+    
+    position: absolute;
+    top: 1240px;
+    left: 455px;
+}
+#gallery9 {
+    
+    position: absolute;
+    top: 1240px;
+    left: 900px;
+}
+#gallery10 {
+    
+    position: absolute;
+    top: 1600px;
+    left: 10px;
+}
+#gallery11 {
+    
+    position: absolute;
+    top: 1600px;
+    left: 455px;
+}
+#gallery12 {
+    
+    position: absolute;
+    top: 1600px;
+    left: 900px;
+}
+#gallery13 {
+    
+    position: absolute;
+    top: 1950px;
+    left: 10px;
+}
+#gallery14 {
+    
+    position: absolute;
+    top: 1950px;
+    left: 455px;
+}
+#gallery15 {
+    
+    position: absolute;
+    top: 1950px;
+    left: 900px;
+}
+
+
+body {
+    
+    background-color: wheat;
+ min-height: 100%;
+}
